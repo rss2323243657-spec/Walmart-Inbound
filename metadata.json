@@ -1,0 +1,8 @@
+{
+  "name": "Walmart WFS Inventory & Shipment Manager",
+  "description": "Walmart Marketplace 美国站库存与货件全生命周期智能管理系统，支持多报表解析合并、货件收货核对、10天Case自动化计算与预警、库存流水追踪与数据质量中心。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
